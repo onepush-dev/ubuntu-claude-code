@@ -2,7 +2,7 @@
 
 Ubuntu 26.04 LTS with Anthropic's Claude Code CLI preinstalled, reachable from your browser and over real SSH, both attached to one persistent tmux session. Deploy on Railway with one click.
 
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/TEMPLATE_CODE)
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/deploy/RyyLDa)
 
 ## What you get
 
